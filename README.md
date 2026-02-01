@@ -3,23 +3,11 @@ Computer Science student focused on **Backend & Systems**, with experience in
 **Applied Machine Learning & Computer Vision**.
 
 ---
-
 ## 📊 GitHub Overview
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ZayanKhan-12&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ZayanKhan-12&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ZayanKhan-12&show_icons=true" />
-</picture>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZayanKhan-12&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZayanKhan-12&layout=compact&theme=tokyonight)
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZayanKhan-12&layout=compact&theme=tokyonight" />
 
 ---
 
