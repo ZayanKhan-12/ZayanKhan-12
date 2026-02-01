@@ -4,9 +4,11 @@ Computer Science student focused on **Backend & Systems**, with experience in
 
 ---
 ## 📊 GitHub Overview
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZayanKhan-12&show_icons=true&theme=tokyonight&v=1" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZayanKhan-12&layout=compact&theme=tokyonight&v=1" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZayanKhan-12&show_icons=true&theme=tokyonight&count_private=false" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayanKhan-12&layout=compact&theme=tokyonight" />
+
 
 
 ---
