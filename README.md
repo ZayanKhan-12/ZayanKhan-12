@@ -2,13 +2,15 @@
 Computer Science student focused on **Backend & Systems**, with experience in  
 **Applied Machine Learning & Computer Vision**.
 
-<br/>
+---
 
 ## 📊 GitHub Overview
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZayanKhan-12&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZayanKhan-12&layout=compact&theme=tokyonight)
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -42,9 +44,8 @@ Computer Science student focused on **Backend & Systems**, with experience in
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
-<br/>
+---
 
 ## ⏱️ Coding Activity (All Time)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
