@@ -12,6 +12,7 @@ Computer Science student focused on **Backend & Systems**, with experience in
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -43,5 +44,13 @@ Computer Science student focused on **Backend & Systems**, with experience in
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+
+---
+
+## ⏱️ Coding Activity (All Time)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
