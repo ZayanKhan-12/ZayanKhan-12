@@ -5,18 +5,10 @@ Computer Science student focused on **Backend & Systems**, with experience in
 <br/>
 
 ## 📊 GitHub Overview
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ZayanKhan-12&show_icons=true&theme=tokyonight"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayanKhan-12&layout=compact&theme=tokyonight"
-    height="160"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZayanKhan-12&show_icons=true&theme=tokyonight)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZayanKhan-12&layout=compact&theme=tokyonight)
+
 
 ## 🛠️ Tech Stack
 
