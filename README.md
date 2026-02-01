@@ -2,14 +2,21 @@
 Computer Science student focused on **Backend & Systems**, with experience in  
 **Applied Machine Learning & Computer Vision**.
 
----
+<br/>
 
 ## 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZayanKhan-12&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayanKhan-12&layout=compact&theme=tokyonight" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ZayanKhan-12&show_icons=true&theme=tokyonight"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayanKhan-12&layout=compact&theme=tokyonight"
+    height="160"
+  />
 </p>
----
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -43,21 +50,9 @@ Computer Science student focused on **Backend & Systems**, with experience in
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
----
+<br/>
 
 ## ⏱️ Coding Activity (All Time)
-
 <!--START_SECTION:waka-->
-
-```txt
-From: 01 February 2026 - To: 01 February 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
-
-
 
