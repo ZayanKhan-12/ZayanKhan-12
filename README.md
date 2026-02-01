@@ -3,9 +3,12 @@ Computer Science student focused on **Backend & Systems**, with experience in
 **Applied Machine Learning & Computer Vision**.
 
 ---
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZayanKhan-12&show_icons=true&theme=tokyonight&v=1" />
+## 📊 GitHub Overview
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZayanKhan-12&layout=compact&theme=tokyonight&v=1" />
+![GitHub followers](https://img.shields.io/github/followers/ZayanKhan-12?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/ZayanKhan-12?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-Active-blue?style=for-the-badge)
+
 
 
 
