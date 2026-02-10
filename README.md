@@ -77,11 +77,12 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 07 February 2026
+From: 01 February 2026 - To: 09 February 2026
 
-Total Time: 28 mins
+Total Time: 46 mins
 
-C   28 mins         █████████████████████████   100.00 %
+C      28 mins         ███████████████▒░░░░░░░░░   61.48 %
+Rust   18 mins         █████████▓░░░░░░░░░░░░░░░   38.52 %
 ```
 
 <!--END_SECTION:waka-->
