@@ -77,13 +77,13 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 15 March 2026
+From: 01 February 2026 - To: 16 March 2026
 
-Total Time: 2 hrs 39 mins
+Total Time: 3 hrs 15 mins
 
-Java   1 hr 53 mins          █████████████████▓░░░░░░░   70.77 %
-C      28 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-Rust   18 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Java   2 hrs 28 mins         ███████████████████░░░░░░   76.03 %
+C      28 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+Rust   18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
 ```
 
 <!--END_SECTION:waka-->
