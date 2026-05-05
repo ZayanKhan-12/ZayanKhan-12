@@ -77,18 +77,18 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 02 May 2026
+From: 01 February 2026 - To: 03 May 2026
 
-Total Time: 4 hrs 9 mins
+Total Time: 4 hrs 28 mins
 
-Java     3 hrs 7 mins          ██████████████████▓░░░░░░   75.21 %
-C        28 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-Rust     18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-TOML     7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Python   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-XML      1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-INI      1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java         3 hrs 7 mins          ████████████░░░░░░░░░░░░░   48.30 %
+Other        2 hrs 1 min           ███████▓░░░░░░░░░░░░░░░░░   31.11 %
+C            28 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Rust         18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+TypeScript   12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+TOML         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Python       5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Markdown     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
