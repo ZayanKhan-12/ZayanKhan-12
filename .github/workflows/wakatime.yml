@@ -10,7 +10,6 @@ permissions:
 
 jobs:
   update-readme:
-    name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
 
     steps:
