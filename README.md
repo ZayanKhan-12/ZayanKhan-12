@@ -73,22 +73,7 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-6A5ACD?style=for-the-badge&logo=ai&logoColor=white)
 ---
 
-## ⏱️ Coding Activity (All Time)
+## ⏱️ Coding Activity
+
 <!--START_SECTION:waka-->
-
-```txt
-From: 01 February 2026 - To: 04 May 2026
-
-Total Time: 4 hrs 28 mins
-
-Other        3 hrs 34 mins         ███████████░░░░░░░░░░░░░░   44.40 %
-Java         3 hrs 7 mins          █████████▓░░░░░░░░░░░░░░░   38.98 %
-C            28 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Rust         18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-TypeScript   12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-TOML         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Python       5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Markdown     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-```
-
 <!--END_SECTION:waka-->
