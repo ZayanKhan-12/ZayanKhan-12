@@ -42,3 +42,23 @@ jobs:
           SYMBOL_VERSION: "2"
 
           COMMIT_MESSAGE: "Update WakaTime developer metrics"
+  update-language-bars:
+    name: Update all-time language bars
+    runs-on: ubuntu-latest
+    needs: update-developer-stats
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka-languages
+          TIME_RANGE: all_time
+          LANG_COUNT: 20
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_TITLE: true
+          BLOCKS: ⣿⣶⣤⣀
+          CODE_LANG: txt
+          COMMIT_MESSAGE: "Update all-time language usage"
