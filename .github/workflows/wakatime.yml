@@ -19,7 +19,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-          # Main display
+          SECTION_NAME: "waka"
+
           SHOW_TITLE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "True"
@@ -27,58 +28,17 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_UPDATED_DATE: "True"
 
-          # GitHub activity
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
 
-          # WakaTime tracked breakdowns
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
           SHOW_PROJECTS: "True"
           SHOW_OS: "True"
           SHOW_TIMEZONE: "True"
-
-          # Repo/language stats
           SHOW_LANGUAGE_PER_REPO: "True"
 
-          # Charts / styling
           SHOW_LOC_CHART: "True"
           SYMBOL_VERSION: "2"
 
-          # Output control
           COMMIT_MESSAGE: "Update WakaTime developer metrics"
-          COMMIT_BY_ME: "True"
-          COMMIT_USERNAME: "ZayanKhan-12"
-          COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
-
-          # Optional filters / limits
-          LOCALE: "en"
-          IGNORED_REPOS: ""
-          DEBUG_LOGGING: "False"
-
-  update-language-bars:
-    name: Update all-time language bars
-    runs-on: ubuntu-latest
-    needs: update-developer-stats
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-          SECTION_NAME: waka-languages
-          TIME_RANGE: all_time
-          LANG_COUNT: 20
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_TITLE: true
-          CODE_LANG: txt
-
-          # Bar graph style
-          BLOCKS: ⣿⣶⣤⣀
-
-          # Output formatting
-          COMMIT_MESSAGE: "Update all-time WakaTime language graph"
