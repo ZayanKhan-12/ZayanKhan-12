@@ -92,7 +92,9 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![RealSense](https://img.shields.io/badge/Intel_RealSense-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Perception](https://img.shields.io/badge/Perception-4B0082?style=for-the-badge&logo=opencv&logoColor=white)
-![Lane Detection](https://img.shields.io/badge/Lane_Detection-00A86B?style=for-the-badge&logo=opencv&logoColor=white)## ⏱️ Coding Activity
+![Lane Detection](https://img.shields.io/badge/Lane_Detection-00A86B?style=for-the-badge&logo=opencv&logoColor=white)
+
+## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2054%20mins-blue?style=flat)
