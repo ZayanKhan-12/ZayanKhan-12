@@ -94,28 +94,14 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 ![Perception](https://img.shields.io/badge/Perception-4B0082?style=for-the-badge&logo=opencv&logoColor=white)
 ![Lane Detection](https://img.shields.io/badge/Lane_Detection-00A86B?style=for-the-badge&logo=opencv&logoColor=white)
 
+
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 01 February 2026 - To: 07 May 2026
-
-Total Time: 4 hrs 34 mins
-
-Other        7 hrs 19 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿   61.56 %
-Java         3 hrs 7 mins          ⣀⣀⣀⣀⣀⣀⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   26.31 %
-C            28 mins               ⣀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   04.02 %
-Rust         18 mins               ⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   02.52 %
-TypeScript   12 mins               ⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   01.80 %
-Markdown     11 mins               ⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   01.66 %
-TOML         7 mins                ⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   01.06 %
-Python       5 mins                ⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   00.78 %
-XML          1 min                 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   00.15 %
-INI          1 min                 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   00.14 %
-```
-
 <!--END_SECTION:waka-->
+
+---
+
 ## 📊 All-Time Language Usage
 
 <!--START_SECTION:waka-languages-->
