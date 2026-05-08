@@ -120,7 +120,3 @@ INI          1 min                 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 ---
 
-## 📊 All-Time Language Usage
-
-<!--START_SECTION:waka-languages-->
-<!--END_SECTION:waka-languages-->
