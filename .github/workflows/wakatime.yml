@@ -19,47 +19,49 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
+          # README section
           SECTION_NAME: "waka"
 
+          # Main header stats
           SHOW_TITLE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_UPDATED_DATE: "True"
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
 
+          # GitHub activity stats
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
 
+          # WakaTime activity stats
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
           SHOW_PROJECTS: "True"
           SHOW_OS: "True"
           SHOW_TIMEZONE: "True"
 
+          # Repository/language stats
           SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_UPDATED_DATE: "True"
 
+          # Lines of code chart
           SHOW_LOC_CHART: "True"
+
+          # Display/style options
           SYMBOL_VERSION: "2"
+          BADGE_STYLE: "for-the-badge"
+          LOCALE: "en"
+
+          # Repository scan controls
+          MAX_REPOS: "0"
+          IGNORED_REPOS: ""
+
+          # Commit settings
           COMMIT_MESSAGE: "Update WakaTime developer metrics"
+          COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: "ZayanKhan-12"
+          COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
 
-  update-language-bars:
-    name: Update all-time language bars
-    runs-on: ubuntu-latest
-    needs: update-developer-stats
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: waka-languages
-          TIME_RANGE: all_time
-          LANG_COUNT: 20
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_TITLE: true
-          BLOCKS: ⣿⣶⣤⣀
-          CODE_LANG: txt
-          COMMIT_MESSAGE: "Update all-time language usage"
+          # Debugging
+          DEBUG_LOGGING: "False"
