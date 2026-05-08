@@ -169,6 +169,11 @@ Swift                    1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 JavaScript               1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.25 % 
 ```
 
+## 📊 All-Time Language Usage
+
+<!--START_SECTION:waka-languages-->
+<!--END_SECTION:waka-languages-->
+
 
 
 
