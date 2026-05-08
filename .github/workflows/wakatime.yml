@@ -42,7 +42,7 @@ jobs:
           # Turn this off to remove the big timeline graph
           SHOW_LOC_CHART: "False"
 
-          SYMBOL_VERSION: "2"
+          SYMBOL_VERSION: "20"
 
           # Show all-time tracked coding data
           TIME_RANGE: "all_time"
