@@ -43,4 +43,27 @@ jobs:
           SHOW_LOC_CHART: "False"
 
           SYMBOL_VERSION: "2"
-          COMMIT_MESSAGE: "Update WakaTime developer metrics"
+
+          # Show all-time tracked coding data
+          TIME_RANGE: "all_time"
+
+          # Show more languages
+          LANG_COUNT: "50"
+
+          # Show actual time + total time
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          SHOW_MASKED_TIME: "true"
+
+          # Do NOT stop at "Other"
+          STOP_AT_OTHER: "false"
+
+          # Leave blank so no languages are hidden
+          IGNORED_LANGUAGES: ""
+
+          # Bar style
+          BLOCKS: "⣿⣶⣤⣀"
+          CODE_LANG: "txt"
+
+          # Commit message
+          COMMIT_MESSAGE: "Update all-time language usage"
