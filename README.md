@@ -98,17 +98,17 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-225-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-291-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.54%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 441.1 kB Used in GitHub's Storage 
+> 📦 441.2 kB Used in GitHub's Storage 
  > 
-> 🏆 156 Contributions in the Year 2026
+> 🏆 158 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -120,20 +120,20 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 
 ```text
 🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-🌆 Daytime                156 commits         █████████████░░░░░░░░░░░░   52.88 % 
-🌃 Evening                105 commits         █████████░░░░░░░░░░░░░░░░   35.59 % 
-🌙 Night                  33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+🌆 Daytime                157 commits         █████████████░░░░░░░░░░░░   52.86 % 
+🌃 Evening                106 commits         █████████░░░░░░░░░░░░░░░░   35.69 % 
+🌙 Night                  33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Tuesday                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Wednesday                59 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Thursday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Saturday                 72 commits          ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-Sunday                   61 commits          █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Monday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Tuesday                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Wednesday                59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Thursday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Friday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Saturday                 73 commits          ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Sunday                   61 commits          █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
 ```
 
 
@@ -143,20 +143,22 @@ Sunday                   61 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    7 hrs 19 mins       ████████████████████████░   94.67 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Other                    7 hrs 19 mins       █████████████████████░░░░   84.78 % 
+Java                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-Zsh                      7 hrs 19 mins       ████████████████████████░   94.67 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Zsh                      7 hrs 19 mins       █████████████████████░░░░   84.78 % 
+VS Code                  1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
 
 🐱‍💻 Projects: 
-Terminal                 7 hrs 19 mins       ████████████████████████░   94.67 % 
-DSA                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Terminal                 7 hrs 19 mins       █████████████████████░░░░   84.78 % 
+hellowrld                48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+DSA                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 💻 Operating System: 
-Mac                      7 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +174,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2026 00:29:10 UTC
+ Last Updated on 10/05/2026 00:28:39 UTC
 <!--END_SECTION:waka-->
 
 ---
