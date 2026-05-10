@@ -108,7 +108,7 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 
 > 📦 441.2 kB Used in GitHub's Storage 
  > 
-> 🏆 161 Contributions in the Year 2026
+> 🏆 163 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -120,20 +120,20 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 
 ```text
 🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-🌆 Daytime                157 commits         █████████████░░░░░░░░░░░░   52.33 % 
-🌃 Evening                107 commits         █████████░░░░░░░░░░░░░░░░   35.67 % 
-🌙 Night                  35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+🌆 Daytime                157 commits         █████████████░░░░░░░░░░░░   51.99 % 
+🌃 Evening                107 commits         █████████░░░░░░░░░░░░░░░░   35.43 % 
+🌙 Night                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Tuesday                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Wednesday                59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Thursday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Friday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Saturday                 74 commits          ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-Sunday                   63 commits          █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Monday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Tuesday                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Wednesday                59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Thursday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Friday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Saturday                 74 commits          ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Sunday                   65 commits          █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
 ```
 
 
@@ -143,22 +143,22 @@ Sunday                   63 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    7 hrs 19 mins       █████████████████████░░░░   84.78 % 
-Java                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Other                    5 hrs 18 mins       █████████████████████░░░░   83.99 % 
+Java                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Zsh                      7 hrs 19 mins       █████████████████████░░░░   84.78 % 
-VS Code                  1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Zsh                      5 hrs 18 mins       █████████████████████░░░░   83.99 % 
+VS Code                  1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
 
 🐱‍💻 Projects: 
-Terminal                 7 hrs 19 mins       █████████████████████░░░░   84.78 % 
-hellowrld                48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-DSA                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Terminal                 5 hrs 18 mins       █████████████████████░░░░   83.99 % 
+hellowrld                48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+DSA                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 Operating System: 
-Mac                      8 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +174,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2026 04:36:29 UTC
+ Last Updated on 10/05/2026 06:09:40 UTC
 <!--END_SECTION:waka-->
 
 ---
