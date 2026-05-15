@@ -108,7 +108,7 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 
 > 📦 441.6 kB Used in GitHub's Storage 
  > 
-> 🏆 179 Contributions in the Year 2026
+> 🏆 181 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -120,20 +120,20 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 
 ```text
 🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-🌆 Daytime                165 commits         █████████████░░░░░░░░░░░░   51.89 % 
-🌃 Evening                110 commits         █████████░░░░░░░░░░░░░░░░   34.59 % 
-🌙 Night                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+🌆 Daytime                167 commits         █████████████░░░░░░░░░░░░   52.19 % 
+🌃 Evening                110 commits         █████████░░░░░░░░░░░░░░░░   34.38 % 
+🌙 Night                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Wednesday                60 commits          █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Friday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Saturday                 74 commits          ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-Sunday                   71 commits          ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Monday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Wednesday                60 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Saturday                 74 commits          ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+Sunday                   71 commits          ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
 ```
 
 
@@ -143,27 +143,27 @@ Sunday                   71 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Java                     48 mins             ███████████████████░░░░░░   74.44 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-C                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Java                     48 mins             ███████████████████░░░░░░   75.34 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+C                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████░░░░   84.38 % 
-Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+VS Code                  54 mins             █████████████████████░░░░   84.19 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🐱‍💻 Projects: 
-hellowrld                48 mins             ███████████████████░░░░░░   74.44 % 
-Terminal                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-DSA                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+hellowrld                48 mins             ███████████████████░░░░░░   75.34 % 
+Terminal                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+DSA                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████░░░░   84.38 % 
-Linux                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Mac                      54 mins             █████████████████████░░░░   84.19 % 
+Linux                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
 ```
 
 **I Mostly Code in Python** 
@@ -179,7 +179,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 20:08:04 UTC
+ Last Updated on 15/05/2026 20:32:56 UTC
 <!--END_SECTION:waka-->
 
 ---
