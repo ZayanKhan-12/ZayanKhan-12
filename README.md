@@ -98,7 +98,7 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-328-blue?style=flat)
 
@@ -106,7 +106,7 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 
 **🐱 My GitHub Data** 
 
-> 📦 441.4 kB Used in GitHub's Storage 
+> 📦 441.6 kB Used in GitHub's Storage 
  > 
 > 🏆 178 Contributions in the Year 2026
  > 
@@ -143,22 +143,27 @@ Sunday                   71 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    3 hrs 18 mins       ███████████████████░░░░░░   76.54 % 
-Java                     48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Java                     48 mins             ███████████████████░░░░░░   74.44 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+C                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-Zsh                      3 hrs 18 mins       ███████████████████░░░░░░   76.54 % 
-VS Code                  1 hr                ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+VS Code                  54 mins             █████████████████████░░░░   84.38 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🐱‍💻 Projects: 
-Terminal                 3 hrs 18 mins       ███████████████████░░░░░░   76.54 % 
-hellowrld                48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-DSA                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+hellowrld                48 mins             ███████████████████░░░░░░   74.44 % 
+Terminal                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+DSA                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 💻 Operating System: 
-Mac                      4 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      54 mins             █████████████████████░░░░   84.38 % 
+Linux                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +179,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 17:21:48 UTC
+ Last Updated on 15/05/2026 00:30:26 UTC
 <!--END_SECTION:waka-->
 
 ---
