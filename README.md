@@ -100,7 +100,7 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-330-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-338-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -143,27 +143,20 @@ Sunday                   71 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Java                     48 mins             ███████████████████░░░░░░   75.34 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-C                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    8 mins              █████████████████████░░░░   83.04 % 
+C                        1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████░░░░   84.19 % 
-Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Bash                     8 mins              █████████████████████░░░░   83.04 % 
+Vim                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Neovim                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🐱‍💻 Projects: 
-hellowrld                48 mins             ███████████████████░░░░░░   75.34 % 
-Terminal                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-DSA                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Terminal                 8 mins              █████████████████████░░░░   83.04 % 
+Unknown Project          1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████░░░░   84.19 % 
-Linux                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Linux                    10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -179,7 +172,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2026 00:28:33 UTC
+ Last Updated on 17/05/2026 00:30:09 UTC
 <!--END_SECTION:waka-->
 
 ---
