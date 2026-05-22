@@ -98,9 +98,7 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2022%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-346-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-213-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -143,20 +141,17 @@ Sunday                   72 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    8 mins              █████████████████████░░░░   83.76 % 
-C                        1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Other                    43 mins             ████████████████████████░   97.02 % 
+C                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-Bash                     8 mins              █████████████████████░░░░   83.76 % 
-Vim                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Neovim                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Bash                     44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Terminal                 8 mins              █████████████████████░░░░   83.76 % 
-Unknown Project          1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Terminal                 44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+Linux                    44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +167,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2026 00:34:39 UTC
+ Last Updated on 22/05/2026 00:33:11 UTC
 <!--END_SECTION:waka-->
 
 ---
