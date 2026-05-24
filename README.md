@@ -116,6 +116,46 @@ Computer Science student focused on **Backend & Systems**, with experience in **
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+🌆 Daytime                169 commits         █████████████░░░░░░░░░░░░   51.84 % 
+🌃 Evening                112 commits         █████████░░░░░░░░░░░░░░░░   34.36 % 
+🌙 Night                  43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Wednesday                61 commits          █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Saturday                 74 commits          ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Sunday                   72 commits          ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+Other                    43 mins             ████████████████████████░   97.02 % 
+C                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+
+🔥 Editors: 
+Bash                     44 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Terminal                 44 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    44 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -129,7 +169,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 00:32:19 UTC
+ Last Updated on 24/05/2026 05:38:13 UTC
 <!--END_SECTION:waka-->
 
 ---
