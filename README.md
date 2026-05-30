@@ -98,9 +98,9 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -119,21 +119,21 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-🌆 Daytime                170 commits         █████████████░░░░░░░░░░░░   51.67 % 
-🌃 Evening                112 commits         █████████░░░░░░░░░░░░░░░░   34.04 % 
-🌙 Night                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+🌞 Morning                4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+🌆 Daytime                170 commits         █████████████░░░░░░░░░░░░   51.36 % 
+🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   33.84 % 
+🌙 Night                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Tuesday                  33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Wednesday                61 commits          █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Saturday                 74 commits          ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Sunday                   73 commits          ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Tuesday                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Wednesday                61 commits          █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Saturday                 74 commits          ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+Sunday                   73 commits          ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
 ```
 
 
@@ -143,32 +143,32 @@ Sunday                   73 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Bash                     5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Terminal                 5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
+TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
 
 
- Last Updated on 29/05/2026 04:52:20 UTC
+ Last Updated on 30/05/2026 00:33:13 UTC
 <!--END_SECTION:waka-->
 
 ---
