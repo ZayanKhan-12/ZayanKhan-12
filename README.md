@@ -98,9 +98,9 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -119,21 +119,21 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-🌆 Daytime                170 commits         █████████████░░░░░░░░░░░░   51.36 % 
-🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   33.84 % 
-🌙 Night                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+🌞 Morning                4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+🌆 Daytime                170 commits         █████████████░░░░░░░░░░░░   50.90 % 
+🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   33.53 % 
+🌙 Night                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Tuesday                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Wednesday                61 commits          █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Saturday                 74 commits          ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Sunday                   73 commits          ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Tuesday                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Wednesday                61 commits          █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Saturday                 77 commits          ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Sunday                   73 commits          █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
 ```
 
 
@@ -158,17 +158,17 @@ Linux                    5 mins              ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
-TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   8 repos             ███████████░░░░░░░░░░░░░░   42.11 % 
+TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 30/05/2026 00:33:13 UTC
+ Last Updated on 31/05/2026 00:35:27 UTC
 <!--END_SECTION:waka-->
 
 ---
