@@ -98,11 +98,11 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.02%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,24 +116,24 @@ Computer Science student focused on **Backend & Systems**, with experience in **
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-🌆 Daytime                170 commits         ████████████░░░░░░░░░░░░░   50.00 % 
-🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   32.94 % 
-🌙 Night                  54 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+🌞 Morning                4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+🌆 Daytime                170 commits         ███████████░░░░░░░░░░░░░░   45.70 % 
+🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   30.11 % 
+🌙 Night                  86 commits          ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Tuesday                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Wednesday                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Saturday                 80 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Sunday                   76 commits          ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Tuesday                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Wednesday                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Thursday                 22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Saturday                 86 commits          ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+Sunday                   102 commits         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
 ```
 
 
@@ -177,7 +177,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2026 08:06:24 UTC
+ Last Updated on 31/05/2026 15:22:23 UTC
 <!--END_SECTION:waka-->
 
 ---
