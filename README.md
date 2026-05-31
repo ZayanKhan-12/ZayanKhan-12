@@ -98,11 +98,11 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.64%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -119,21 +119,21 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-🌆 Daytime                170 commits         █████████████░░░░░░░░░░░░   50.90 % 
-🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   33.53 % 
-🌙 Night                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+🌞 Morning                4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+🌆 Daytime                170 commits         ████████████░░░░░░░░░░░░░   50.00 % 
+🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   32.94 % 
+🌙 Night                  54 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Tuesday                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Wednesday                61 commits          █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Saturday                 77 commits          ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Sunday                   73 commits          █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Tuesday                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Wednesday                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Saturday                 80 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Sunday                   76 commits          ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
 ```
 
 
@@ -143,23 +143,32 @@ Sunday                   73 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    5 mins              █████████████████████████   100.00 % 
+Markdown                 22 mins             ███████████░░░░░░░░░░░░░░   43.70 % 
+JSON                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+SQL                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Git Config               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 🔥 Editors: 
-Bash                     5 mins              █████████████████████████   100.00 % 
+VS Code                  45 mins             ██████████████████████░░░   89.00 % 
+Bash                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
 
 🐱‍💻 Projects: 
-Terminal                 5 mins              █████████████████████████   100.00 % 
+canopy-conceal           43 mins             █████████████████████░░░░   83.55 % 
+Terminal                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Shelter Command          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+Mac                      45 mins             ██████████████████████░░░   89.00 % 
+Linux                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   8 repos             ███████████░░░░░░░░░░░░░░   42.11 % 
-TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+TypeScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
+Python                   7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
 C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
@@ -168,7 +177,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2026 00:35:27 UTC
+ Last Updated on 31/05/2026 08:06:24 UTC
 <!--END_SECTION:waka-->
 
 ---
