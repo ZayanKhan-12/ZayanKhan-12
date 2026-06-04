@@ -98,7 +98,7 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue?style=flat)
 
@@ -143,26 +143,26 @@ Sunday                   102 commits         ███████░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-TypeScript               55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-Bash                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Markdown                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Other                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Markdown                 1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   34.71 % 
+TypeScript               45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Other                    39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Bash                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 30 mins       ████████████████████████░   97.37 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+VS Code                  4 hrs 22 mins       ████████████████████████░   97.88 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🐱‍💻 Projects: 
-Shelter Command          1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   32.83 % 
-canopy-conceal           1 hr                ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-Unknown Project          38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-nvidia-spark             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-terminals                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+canopy-conceal           2 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.42 % 
+Shelter Command          1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+Unknown Project          38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+nvidia-spark             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+terminals                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 💻 Operating System: 
-Mac                      3 hrs 30 mins       ████████████████████████░   97.37 % 
-Linux                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Mac                      4 hrs 22 mins       ████████████████████████░   97.88 % 
+Linux                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -178,7 +178,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 07:20:56 UTC
+ Last Updated on 04/06/2026 00:44:40 UTC
 <!--END_SECTION:waka-->
 
 ---
