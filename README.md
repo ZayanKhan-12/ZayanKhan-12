@@ -119,21 +119,21 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-🌆 Daytime                234 commits         ███████████░░░░░░░░░░░░░░   45.17 % 
-🌃 Evening                140 commits         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-🌙 Night                  106 commits         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+🌞 Morning                38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+🌆 Daytime                235 commits         ███████████░░░░░░░░░░░░░░   45.28 % 
+🌃 Evening                140 commits         ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+🌙 Night                  106 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   89 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Tuesday                  90 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Wednesday                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Thursday                 29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Friday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Saturday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Sunday                   102 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Monday                   89 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Tuesday                  90 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Wednesday                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Thursday                 29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Saturday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Sunday                   102 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
 ```
 
 
@@ -143,23 +143,21 @@ Sunday                   102 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Markdown                 2 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
-Other                    1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Svelte                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-C                        42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Markdown                 5 hrs 23 mins       █████████████░░░░░░░░░░░░   51.83 % 
+Svelte                   1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Other                    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+SQL                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       ███████████████░░░░░░░░░░   60.11 % 
-Claude Code              2 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
+Claude Code              6 hrs 10 mins       ███████████████░░░░░░░░░░   59.41 % 
+VS Code                  4 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.59 % 
 
 🐱‍💻 Projects: 
-canopy-conceal           6 hrs 37 mins       ███████████████████████░░   90.39 % 
-Assignment4              30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+canopy-conceal           10 hrs 24 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -175,7 +173,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2026 00:40:52 UTC
+ Last Updated on 12/06/2026 19:55:19 UTC
 <!--END_SECTION:waka-->
 
 ---
