@@ -100,7 +100,7 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.04%20million%20lines%20of%20code-blue?style=flat)
 
@@ -143,21 +143,22 @@ Sunday                   102 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Markdown                 5 hrs 23 mins       █████████████░░░░░░░░░░░░   51.83 % 
-Svelte                   1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Other                    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-SQL                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Markdown                 5 hrs               ███████████████░░░░░░░░░░   58.15 % 
+Svelte                   1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+SQL                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 10 mins       ███████████████░░░░░░░░░░   59.41 % 
-VS Code                  4 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.59 % 
+Claude Code              6 hrs 18 mins       ██████████████████░░░░░░░   73.37 % 
+VS Code                  2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
 
 🐱‍💻 Projects: 
-canopy-conceal           10 hrs 24 mins      █████████████████████████   100.00 % 
+canopy-conceal           8 hrs 35 mins       █████████████████████████   99.96 % 
+canopy-template          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      10 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -173,7 +174,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2026 00:40:17 UTC
+ Last Updated on 14/06/2026 00:38:27 UTC
 <!--END_SECTION:waka-->
 
 ---
