@@ -100,7 +100,7 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2046%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-135-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.22%20million%20lines%20of%20code-blue?style=flat)
 
@@ -143,22 +143,22 @@ Sunday                   156 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Markdown                 4 hrs 48 mins       █████████████████░░░░░░░░   66.54 % 
-Svelte                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-SQL                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Markdown                 4 hrs 21 mins       ███████████████████░░░░░░   75.34 % 
+Svelte                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 15 mins       ██████████████████████░░░   86.79 % 
-VS Code                  57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Claude Code              4 hrs 53 mins       █████████████████████░░░░   84.63 % 
+VS Code                  53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
 
 🐱‍💻 Projects: 
-canopy-conceal           7 hrs 5 mins        █████████████████████████   98.35 % 
-canopy-template          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+canopy-conceal           5 hrs 39 mins       ████████████████████████░   97.94 % 
+canopy-template          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 Operating System: 
-Mac                      7 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +174,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2026 00:40:55 UTC
+ Last Updated on 17/06/2026 16:12:59 UTC
 <!--END_SECTION:waka-->
 
 ---
