@@ -98,7 +98,7 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-136-blue?style=flat)
 
@@ -119,21 +119,21 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-🌆 Daytime                280 commits         ██████████░░░░░░░░░░░░░░░   39.55 % 
-🌃 Evening                220 commits         ████████░░░░░░░░░░░░░░░░░   31.07 % 
-🌙 Night                  152 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+🌞 Morning                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+🌆 Daytime                280 commits         ██████████░░░░░░░░░░░░░░░   39.33 % 
+🌃 Evening                224 commits         ████████░░░░░░░░░░░░░░░░░   31.46 % 
+🌙 Night                  152 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Tuesday                  116 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Wednesday                105 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Thursday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Saturday                 112 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Sunday                   156 commits         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Monday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Tuesday                  116 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Wednesday                105 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Thursday                 62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Friday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Saturday                 112 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Sunday                   156 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
 ```
 
 
@@ -174,7 +174,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2026 00:45:33 UTC
+ Last Updated on 19/06/2026 05:03:21 UTC
 <!--END_SECTION:waka-->
 
 ---
