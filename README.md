@@ -100,7 +100,7 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-159-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.65%20million%20lines%20of%20code-blue?style=flat)
 
@@ -143,22 +143,22 @@ Sunday                   277 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Markdown                 3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
-Python                   1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Svelte                   1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-TOML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Markdown                 2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+Svelte                   1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Python                   1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+TOML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 6 mins       ████████████████████████░   96.86 % 
-VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Claude Code              9 hrs 24 mins       ████████████████████████░   96.32 % 
+VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🐱‍💻 Projects: 
-canopy-template          10 hrs 23 mins      ███████████████████████░░   90.62 % 
-canopy-conceal           1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+canopy-template          8 hrs 45 mins       ██████████████████████░░░   89.65 % 
+canopy-conceal           1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
 
 💻 Operating System: 
-Mac                      11 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +174,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2026 00:36:05 UTC
+ Last Updated on 27/06/2026 13:08:54 UTC
 <!--END_SECTION:waka-->
 
 ---
