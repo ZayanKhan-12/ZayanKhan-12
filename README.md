@@ -100,15 +100,15 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.70%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.71%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 441.7 kB Used in GitHub's Storage 
  > 
-> 🏆 352 Contributions in the Year 2026
+> 🏆 356 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -119,21 +119,21 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-🌆 Daytime                1081 commits        █████████████░░░░░░░░░░░░   53.75 % 
-🌃 Evening                426 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-🌙 Night                  274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+🌞 Morning                236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+🌆 Daytime                1082 commits        █████████████░░░░░░░░░░░░   53.46 % 
+🌃 Evening                428 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+🌙 Night                  278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Tuesday                  238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Wednesday                288 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Thursday                 456 commits         ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-Friday                   404 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Saturday                 114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Sunday                   284 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Monday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Tuesday                  249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Wednesday                288 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Thursday                 456 commits         ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+Friday                   404 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Saturday                 114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Sunday                   284 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
 ```
 
 
@@ -143,22 +143,23 @@ Sunday                   284 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Markdown                 2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
-Svelte                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-TOML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Python                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Markdown                 1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   32.27 % 
+Svelte                   58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+JavaScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+TOML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 22 mins       ████████████████████████░   95.34 % 
-VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Claude Code              5 hrs 24 mins       ███████████████████████░░   93.76 % 
+VS Code                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 🐱‍💻 Projects: 
-canopy-template          7 hrs 1 min         ███████████████████████░░   90.95 % 
-canopy-conceal           41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+canopy-template          5 hrs 28 mins       ████████████████████████░   95.04 % 
+canopy-demo              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+canopy-delete-dependencie3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Mac                      7 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +175,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2026 00:35:59 UTC
+ Last Updated on 30/06/2026 16:31:49 UTC
 <!--END_SECTION:waka-->
 
 ---
