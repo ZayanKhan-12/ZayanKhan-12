@@ -119,21 +119,21 @@ Computer Science student focused on **Backend & Systems**, with experience in **
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-🌆 Daytime                1380 commits        ██████████████░░░░░░░░░░░   55.02 % 
-🌃 Evening                529 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-🌙 Night                  287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+🌞 Morning                312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+🌆 Daytime                1380 commits        ██████████████░░░░░░░░░░░   54.91 % 
+🌃 Evening                529 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+🌙 Night                  292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Tuesday                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Wednesday                291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Thursday                 516 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Friday                   439 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Saturday                 144 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Sunday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Monday                   306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Tuesday                  446 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Wednesday                291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Thursday                 516 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Friday                   439 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Saturday                 144 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Sunday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
 ```
 
 
@@ -143,20 +143,16 @@ Sunday                   371 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Markdown                 17 mins             ████████████████░░░░░░░░░   64.35 % 
-JSON                     9 mins              █████████░░░░░░░░░░░░░░░░   34.93 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-canopy-demo              13 mins             ████████████░░░░░░░░░░░░░   49.13 % 
-canopy-template          10 mins             ██████████░░░░░░░░░░░░░░░   38.29 % 
-canopy-delete-dependencie3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +168,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2026 04:27:58 UTC
+ Last Updated on 07/07/2026 05:46:08 UTC
 <!--END_SECTION:waka-->
 
 ---
