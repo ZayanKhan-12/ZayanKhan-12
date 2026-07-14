@@ -37,7 +37,7 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"
 
           SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "True"
+          SHOW_EDITORS: "False"
           SHOW_PROJECTS: "False"
           SHOW_OS: "True"
           SHOW_TIMEZONE: "True"
