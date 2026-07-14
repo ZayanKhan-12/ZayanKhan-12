@@ -97,17 +97,17 @@
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-147-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.21%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.11%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 818.9 kB Used in GitHub's Storage 
+> 📦 881.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,504 Contributions in the Year 2026
+> 🏆 1,549 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -118,21 +118,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                572 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-🌆 Daytime                2313 commits        ████████████░░░░░░░░░░░░░   48.98 % 
-🌃 Evening                1268 commits        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-🌙 Night                  569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+🌞 Morning                500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+🌆 Daytime                2054 commits        █████████████░░░░░░░░░░░░   50.45 % 
+🌃 Evening                999 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+🌙 Night                  518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Tuesday                  839 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Wednesday                552 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Thursday                 736 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Friday                   597 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Saturday                 334 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Sunday                   1076 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Monday                   480 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Tuesday                  799 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Wednesday                483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Thursday                 670 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Friday                   564 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Saturday                 261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Sunday                   814 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
@@ -142,16 +142,17 @@ Sunday                   1076 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               39 mins             ███████████████████░░░░░░   74.09 % 
+JavaScript               13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+designio                 53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +168,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2026 04:22:55 UTC
+ Last Updated on 14/07/2026 16:48:50 UTC
 <!--END_SECTION:waka-->
 
 ---
