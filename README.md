@@ -1,6 +1,5 @@
-<a href="https://github.com/sponsors/ZayanKhan-12">
-  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="32" alt="Sponsor ZayanKhan-12" />
-</a>
+[![Sponsor](https://img.shields.io/badge/Sponsor-💜-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ZayanKhan-12)
+
 ---
 ## 📊 GitHub Overview
 
