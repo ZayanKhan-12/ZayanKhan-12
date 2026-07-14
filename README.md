@@ -1,5 +1,6 @@
-<iframe src="https://github.com/sponsors/ZayanKhan-12/button" title="Sponsor ZayanKhan-12" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
+<a href="https://github.com/sponsors/ZayanKhan-12">
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="32" alt="Sponsor ZayanKhan-12" />
+</a>
 ---
 ## 📊 GitHub Overview
 
