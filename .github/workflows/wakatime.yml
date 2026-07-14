@@ -38,7 +38,7 @@ jobs:
 
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "False"
           SHOW_OS: "True"
           SHOW_TIMEZONE: "True"
 
