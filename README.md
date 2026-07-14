@@ -1,5 +1,4 @@
-## 👋 , I'm Zayan Khan 
-Computer Science student focused on **Backend & Systems**, with experience in **Applied Machine Learning & Computer Vision**.
+<iframe src="https://github.com/sponsors/ZayanKhan-12/button" title="Sponsor ZayanKhan-12" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 ---
 ## 📊 GitHub Overview
