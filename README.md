@@ -10,7 +10,6 @@
 ![OCTOBER](https://img.shields.io/badge/OCTOBER-VERY%20OWN-B79A5C?style=for-the-badge&labelColor=000000)
 
 
-![](https://img.shields.io/badge/6-B79A5C?style=flat-square&labelColor=0D0D0D)
 
 
 ---
