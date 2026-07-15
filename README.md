@@ -3,7 +3,7 @@
 
 ## 📊 GitHub Overview
 
-![](https://img.shields.io/badge/OVO-B79A5C?style=flat-square&labelColor=0D0D0D)
+![OVO](https://img.shields.io/badge/OVO-B79A5C?style=for-the-badge&labelColor=000000&color=000000)
 ![GitHub followers](https://img.shields.io/github/followers/ZayanKhan-12?style=for-the-badge)
 ![](https://img.shields.io/badge/OVO-B79A5C?style=flat-square&labelColor=0D0D0D)
 ![Repos](https://img.shields.io/badge/Public%20Repos-Active-blue?style=for-the-badge)
