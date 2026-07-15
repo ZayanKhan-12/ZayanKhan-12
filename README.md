@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ZayanKhan-12?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/ZayanKhan-12?style=for-the-badge)
 ![Repos](https://img.shields.io/badge/Public%20Repos-Active-blue?style=for-the-badge)
-
+![OCTOBER](https://img.shields.io/badge/OCTOBER-VERY%20OWN-B79A5C?style=for-the-badge&labelColor=000000)
 
 
 
