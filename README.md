@@ -5,7 +5,7 @@
 
 ![OVO](https://img.shields.io/badge/%F0%9F%A6%89%20OVO-B79A5C?style=for-the-badge&labelColor=000000&color=000000)
 ![GitHub followers](https://img.shields.io/github/followers/ZayanKhan-12?style=for-the-badge)
-![](https://img.shields.io/badge/OVO-B79A5C?style=flat-square&labelColor=0D0D0D)
+![](https://img.shields.io/badge/%F0%9F%A6%89-OVO%20%C2%B7%20EST%202012-B79A5C?style=for-the-badge&labelColor=0D0D0D&color=0D0D0D)
 ![Repos](https://img.shields.io/badge/Public%20Repos-Active-blue?style=for-the-badge)
 ![OCTOBER](https://img.shields.io/badge/OCTOBER-VERY%20OWN-B79A5C?style=for-the-badge&labelColor=000000)
 
